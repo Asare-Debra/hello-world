@@ -1,5 +1,8 @@
 # hello-world
-First hand experience on platform
-I aspire to be an excellent **Data Scientist**
-My first time using *Github* has been fun so far
-> I hope to achieve and be the best i can possibly be
+1. First time experience on platform
+2. I aspire to be an excellent **Data Scientist**
+3. My second use of *Github* 
+4. Extremeties
+5. GOD is the greatest!
+
+> Do what you love and you will never work a day in your life
